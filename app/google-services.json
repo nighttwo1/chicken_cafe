@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471361627906",
+    "project_id": "chickencafe-a548d",
+    "storage_bucket": "chickencafe-a548d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471361627906:android:1633b4dc80449de88c441b",
+        "android_client_info": {
+          "package_name": "com.example.chickencafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471361627906-4kk4ensdknh8koakadk7k8m2he8eltoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chickencafe",
+            "certificate_hash": "045d745f2b07e45b020c677a0231729216e22fb9"
+          }
+        },
+        {
+          "client_id": "471361627906-2olonsnsq2bh1fe1qgb6f29nqmpp4tno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQRtTPNhSFHmjha6E9gnWvzefWBylj3kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471361627906-2olonsnsq2bh1fe1qgb6f29nqmpp4tno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
