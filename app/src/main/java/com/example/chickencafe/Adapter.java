@@ -70,14 +70,13 @@ public class Adapter extends BaseAdapter {
 
 
         chatmessageTextView.setText(msg.getMsg());
-        chatmessageTextView.setMaxWidth(MainActivity.width/5*4);
+        chatmessageTextView.setMaxWidth(SelectUserActivity.width/5*4);
 
         return view;
     }
 
     // 아이템 데이터 추가를 위한 함수. 개발자가 원하는대로 작성 가능.
     public void addItem(Message msg) {
-
         mMessageList.add(msg);
     }
 }
